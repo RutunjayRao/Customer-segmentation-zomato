@@ -26,6 +26,7 @@ Data Analysis:
 
 ## Python for visualization and Clustering of customers 
 
+
 ![image](https://github.com/RutunjayRao/Customer-segmentation-zomato/assets/89570687/d443a39f-e480-4b45-a087-a4c3c0b325bf)
 
 ### K-means clustering for **New Delhi**
