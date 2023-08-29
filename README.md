@@ -24,11 +24,11 @@ Data Analysis:
   7. Average Ratings for restaurants with table booking facility is 3.9/5 compared to restaurants without table booking facility is 3.7/5 in Connaught Place,New Delhi.
   8. Best modrately priced restaurants with average cost for two < 1000, rating > 4, votes > 4 and provides both table booking and online delivery options to their customer with indian cuisines is located in Kolkata,India named as 'India Restaurant',(RestaurantID - 20747).
 
-### Python for visualization and Clustering of customers
+### Python for visualization and Clustering of customers 
 
 ![image](https://github.com/RutunjayRao/Customer-segmentation-zomato/assets/89570687/d443a39f-e480-4b45-a087-a4c3c0b325bf)
 
-#### K-means clustering
+#### K-means clustering for **New Delhi**
 ![kmeans](https://github.com/RutunjayRao/Customer-segmentation-zomato/assets/89570687/c4618c96-c048-41d5-8aa6-4caec3d1a119)
 
 ### Best rated restaurants vs Geography
