@@ -1,6 +1,6 @@
 # Customer-Archetype-Segmentation-using-Zomato-dataset
 
-Used **MySQL for overall data exploration and analysis** and **Python to do segmentation using K-Means clustering and quantitative research** of the New Delhi area based on the Zomato Restaurants dataset. Created User personas based on the results of research. Demographics used: Cuisines, Ratings, Price range, and Price for two. This can be used to provide descriptive information to new restaurants/ franchises who plan to open new restaurants in different areas of the city.
+Used **MySQL for overall data exploration and analysis** and **Python to do segmentation using K-Means clustering and quantitative research** of top 3 cities based on the Zomato Restaurants dataset. This can be used to provide descriptive information to new restaurants/ franchises who plan to open new restaurants in different areas of the city. I have created user personas describing an ideal customer from these cities. I have also researched users from Connaught Place (~Central Delhi), North Delhi and South Delhi. The ipynb file and dataset can be downloaded from this repo and can be run.
 
 ## MySQL
 
